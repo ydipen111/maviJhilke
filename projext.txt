@@ -1,0 +1,4 @@
+create folder
+npx i create@latest (project name)
+cd (project name)
+npm run dev
